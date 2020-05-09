@@ -7,4 +7,5 @@ To use:
 3. Run the script
 
 Written in: Python3
+
 Libraries used: Pytesseract, PIL, os
